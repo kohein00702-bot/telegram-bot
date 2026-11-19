@@ -1,0 +1,10 @@
+
+{
+  "name": "telegram-bot",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-19",
+  "workers_dev": true,
+  "ai": {
+    "binding": "AI"
+  }
+}
